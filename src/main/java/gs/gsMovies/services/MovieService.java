@@ -1,6 +1,7 @@
 package gs.gsMovies.services;
 
 import gs.gsMovies.models.Movie;
+import gs.gsMovies.repository.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
